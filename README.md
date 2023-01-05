@@ -9,7 +9,6 @@ This tool is only for testing and academic purposes and can only be used where s
 ```shell
 $ wget https://raw.githubusercontent.com/Yuma-Tsushima07/shello/main/shello.sh
 $ chmod +x shello.sh
-$ ./shello.sh --install
 ```
 
 ### Useage:
