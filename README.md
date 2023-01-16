@@ -13,7 +13,7 @@ $ wget https://raw.githubusercontent.com/Yuma-Tsushima07/shello/main/shello.sh
 $ chmod +x shello.sh
 ```
 
-### Useage:
+### Usage:
 
 ```shell
 $ ./shello.sh
